@@ -18,7 +18,7 @@ GitHub repository that contains application code.
 
 Application Quality:
 The website should match the image by 90% or higher.
-<img src="Develop\assets\images\01-html-css-git-homework-demo.png" height="100px" width="50px"/>
+<img src="Develop\assets\images\01-html-css-git-homework-demo.png" height="200px" width="125px"/>
 
 Repository Quality:
 Repository has a unique name.
